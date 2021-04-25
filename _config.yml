@@ -2,3 +2,5 @@ markdown: kramdown
 theme: jekyll-theme-slate
 kramdown: 
   parse_block_html: true
+title: Ramblings of a Generalist
+description: random notes from someone with a random life
