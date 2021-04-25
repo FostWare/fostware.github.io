@@ -1,2 +1,4 @@
 markdown: kramdown
 theme: slate
+kramdown: 
+  parse_block_html: true
